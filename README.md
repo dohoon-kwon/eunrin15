@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello ! I am DoHoon Kwon.
+
+If you want to contact me, please leave me a message!
