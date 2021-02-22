@@ -18,7 +18,7 @@ If you want to contact me, please leave me a message!
 ---
 Student and Programmer
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fansohxxn&count_bg=%23FFC500&title_bg=%23555555&icon=diaspora.svg&icon_color=%23FFDD00&title=visitors&edge_flat=false)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunrin15&count_bg=%23C36EEA&title_bg=%23000000&icon=bilibili.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 ### My blog 😄
