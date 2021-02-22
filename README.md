@@ -1,18 +1,14 @@
 ### Hi there 👋
----
 Hello ! I am DoHoon Kwon.
 If you want to contact me, please leave me a message!
 
 ##### Currently learning and working on 🌱
----
 Java, Spring, CSS, HTML5, Jquery ...
 
 ##### My Info 📫
----
 Student and Programmer
 
 ##### My blog 😄
----
 <a href="https://eunrin15.github.io/">
     <img src = "https://img.shields.io/badge/MY%20BLOG-yellow?&style=flat&logo=github&logoColor=black" style="height : auto; margin-right : 2px;"/>
 </a>
