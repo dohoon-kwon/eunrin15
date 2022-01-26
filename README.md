@@ -1,15 +1,15 @@
 ### Hi there 👋
 
 Hello ! I am DoHoon Kwon.
-
 If you want to contact me, please leave me a message!
 
 
 ### Currently learning and working on 🌱
 ---
-- Java 🤗
-- Spring 😚
-- React 😀
+- Java
+- Spring
+- React
+- MySQL
 
 
 ### My blog 😄
