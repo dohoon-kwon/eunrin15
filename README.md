@@ -7,11 +7,9 @@ If you want to contact me, please leave me a message!
 
 ### Currently learning and working on 🌱
 ---
-- Java
-- Spring
-- CSS
-- HTML5
-- Jquery ...
+- Java 🤗
+- Spring 😚
+- React 😀
 
 
 ### My blog 😄
